@@ -22,6 +22,6 @@
 - Toast or Notification: [Noty](https://ned.im/noty)
 
 ## .contact
-- Email: [dev.mehdineysi@gmail.com](mailto:dev.mehdineysi@gmail.com)
+- Email: [yr63061@gmail.com](mailto:yr63061@gmail.com)
 - Instagram: [@neysidev](https://instagram.com/neysidev)
 - Twitter: [@neysidev](https://twitter.com/neysidev)
