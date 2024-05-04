@@ -23,5 +23,5 @@
 
 ## .contact
 - Email: [yr63061@gmail.com](mailto:yr63061@gmail.com)
-- Instagram: [@neysidev](https://instagram.com/neysidev)
-- Twitter: [@neysidev](https://twitter.com/neysidev)
+- Instagram: [@aam_aadmi_ki_aatma](https://instagram.com/aam_aadmi_ki_aatma)
+- Twitter: [@YashRaj01211865](https://twitter.com/YashRaj01211865)
